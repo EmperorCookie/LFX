@@ -1,6 +1,6 @@
 # LFX Light System
 
-LFX is a deferred, shader based lighting engine for GameMaker:Studio. The pipeline uses a normal map, a specular map and an emissive map. It uses MRTs and is written in both HLSL and GLSL for portability.
+LFX is a deferred, shader based lighting engine for GameMaker:Studio. The pipeline uses a diffuse map, a normal map, a specular map and an emissive map. It uses MRTs and is written in both HLSL and GLSL for portability.
 
 All shaders that don't require specific functionality are written in GLSL ES to avoid having to write multiple versions.
 
