@@ -12,7 +12,7 @@ Supports GameMaker:Studio's built-in background system.
 
 ### Setup
 
-1. [Download the extension](https://github.com/EmperorCookie/LFX/blob/develop/extensions/LFX_v0_1_6.gmez) and import everything in your project
+1. [Download the extension](https://github.com/EmperorCookie/LFX/releases) and import everything in your project
 2. Create an instance of `obj_lfx` or call the function `lfx_init()`
 3. Add lights using `lfx_light_add(..)` or `lfx_light_directional_add(..)`
 
